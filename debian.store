@@ -1,1 +1,1 @@
-{"trim": "", "base": "a5facca", "trimbase": "", "parent": "debian/foxy/gps_msgs", "previous": "8070bb3"}
+{"base": "f1bc3cd", "parent": "debian/rolling/gps_msgs", "previous": "ac5f8a0", "trim": "", "trimbase": ""}
